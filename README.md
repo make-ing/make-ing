@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Hello there](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+![Hello there](https://media.giphy.com/media/13d2jHlSlxklVe/giphy.gif)
 
 <!--
 **friedcode/friedcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
